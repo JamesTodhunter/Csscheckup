@@ -1,0 +1,55 @@
+/* rule-set #1: everything within tag will have a green background. */ 
+body{
+    background-color: green;
+}
+#number-one{
+    color: blueviolet;
+    }
+}
+/* rule-set #2: Everything within a main.css main will have a orange background. */
+.css-classes {
+    background-color: orange;
+}
+
+/* rule-set #3: All h1 tags within the main.css main will have a font-size of 18 pixels/ */
+.css-classes h1 {
+    font-size: 18px solid blue;
+    
+}
+
+/* rule-set #4: All of the p tags within the mains.css main will have white font 16 pixels high.*/
+.css-classes p{
+    font-size: 16px;
+     color: white;
+}
+
+/* rule-set #5: All the li items within the mains.css main will have a red font */
+.css-classes li : {
+    color: navy;
+}
+
+.monkey-barrel{
+    border: 18px solid burlywood;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding: 20px 20px 20px 40px;
+}
+
+.font-family{
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 20px;
+}
+.Hubba-Bubba{
+    background-color: lavender;
+}
+
+.Big-tall{
+    margin: 35px;
+}
+
+.hiphop{
+    border: 9px solid royalblue;
+}
